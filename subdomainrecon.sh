@@ -15,8 +15,8 @@ if [ "$1" == "" ]; then
 
 else
 	echo "----------------------------------------------------------"
-	echo "|--               BRUTE FORCE SUBDOMAIN                --|"
-	echo "|--                  Version: 1.2                      --|"
+	echo "|--                SUBDOMAIN RECON                     --|"
+	echo "|--                  Version: 1.3                      --|"
 	echo "|--                Code By: Derived                    --|"
 	echo "----------------------------------------------------------"
 	echo "|-  Exemplo de Uso: ./subdomainrecon.sh site.com.br     -|"
